@@ -1,0 +1,9 @@
+C:\Users\Enes Koçer\source\repos\AtYarışıUygulama MY\AtYarışıUygulama MY\bin\Debug\AtYarışıUygulama MY.exe.config
+C:\Users\Enes Koçer\source\repos\AtYarışıUygulama MY\AtYarışıUygulama MY\bin\Debug\AtYarışıUygulama MY.exe
+C:\Users\Enes Koçer\source\repos\AtYarışıUygulama MY\AtYarışıUygulama MY\bin\Debug\AtYarışıUygulama MY.pdb
+C:\Users\Enes Koçer\source\repos\AtYarışıUygulama MY\AtYarışıUygulama MY\obj\Debug\AtYarışıUygulama MY.csprojAssemblyReference.cache
+C:\Users\Enes Koçer\source\repos\AtYarışıUygulama MY\AtYarışıUygulama MY\obj\Debug\AtYarışıUygulama_MY.Form1.resources
+C:\Users\Enes Koçer\source\repos\AtYarışıUygulama MY\AtYarışıUygulama MY\obj\Debug\AtYarışıUygulama_MY.Properties.Resources.resources
+C:\Users\Enes Koçer\source\repos\AtYarışıUygulama MY\AtYarışıUygulama MY\obj\Debug\AtYarışıUygulama MY.csproj.GenerateResource.cache
+C:\Users\Enes Koçer\source\repos\AtYarışıUygulama MY\AtYarışıUygulama MY\obj\Debug\AtYarışıUygulama MY.exe
+C:\Users\Enes Koçer\source\repos\AtYarışıUygulama MY\AtYarışıUygulama MY\obj\Debug\AtYarışıUygulama MY.pdb
